@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import logo from './components/img/money.png';
-// import getCurrencyData from './api/Api';
 import Converters from './components/Converters';
 
 function App() {
